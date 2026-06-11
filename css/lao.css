@@ -1,0 +1,19 @@
+.a {
+    background-color: gray;
+}
+
+.a p {
+    font-size: 100px;
+    margin-bottom: 100px;
+}
+
+
+
+.video {
+    position: fixed;
+    right: 20px;
+    bottom: 1000px;
+    z-index: 1000;
+    display: flex;
+    justify-content: center;
+}
