@@ -1,0 +1,106 @@
+.a ul{
+    display: flex;
+
+    justify-content: flex-start;
+
+    align-items: center;
+
+    gap: 30px;
+
+    list-style: none;
+
+    margin: 0;
+    padding: 0;
+}
+
+.a li{
+    padding: 10px;
+}
+
+
+.a a {
+    color: white;
+      font-size: 28px;
+      font-weight: bold;
+}
+
+.a {
+    display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 20px 50px;
+}
+
+.a h1 {
+    color: white;
+}
+
+.b {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 80px 10%;
+}
+
+.c {
+    flex: 1;
+    padding-right: 50px;
+    color: white;
+}
+
+.c h1 {
+    font-size: 56px;
+    margin-bottom: 20px;
+}
+
+.c image {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+}
+
+section+section {
+    margin-bottom: 50px;
+}
+
+.d {
+    width: 70%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 30px;
+    justify-content: center;
+    margin: 0px auto;
+}
+
+.e {
+    width: 350px;
+    border: 1px solid grey;
+    background-color: white;
+}
+
+.e img {
+    width: 100%;
+}
+
+.butt {
+    font-weight: bold;
+    padding: 10px;
+    border: 1px solid grey;
+    width: 180px;
+    text-align: center;
+    margin-bottom: auto;
+}
+
+body {
+    background-image: url(img/starry-sky-png_194526.jpg);
+}
+
+footer p {
+    text-align: center;
+    color: white;
+}
+.logo{
+      color: white;
+      font-size: 30px;
+      font-weight: bold;}
